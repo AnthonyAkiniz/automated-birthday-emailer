@@ -16,7 +16,7 @@ documentation: https://support.google.com/accounts/answer/185833<br>
    This will create an entry that can send right away to verify it's working for you.<br>
    It is designed to only send an e-mail on the day that is their birthday.<br>
    If multiple people have a birthday on the same day, it will email all of them.<br>
-2. Update your Gmail Address and App Password in 4 spots marked below with arrows.<br>
+2. Update your Gmail Address and App Password in 4 spots marked in the code with arrows.<br>
 3. Launch by clicking run button in top right in VSCode or: py -3 main.py<br>
 4. Can verify sent by viewing your sent folder on your e-mail used.<br>
 5. After initial test, can modify/add letters in the letter_templates folder.<br>
